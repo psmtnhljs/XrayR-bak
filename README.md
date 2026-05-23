@@ -98,14 +98,6 @@ bash <(curl -Ls https://raw.githubusercontent.com/psmtnhljs/XrayR-release-bak/ma
 
 [Mozilla Public License Version 2.0](https://github.com/XrayR-project/XrayR/blob/master/LICENSE)
 
-## Telgram
 
-[XrayR后端讨论](https://t.me/XrayR_project)
-
-[XrayR通知](https://t.me/XrayR_channel)
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/XrayR-project/XrayR.svg)](https://starchart.cc/XrayR-project/XrayR)
 
 
