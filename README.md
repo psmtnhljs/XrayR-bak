@@ -1,7 +1,6 @@
 # XrayR
 
 
-[English](https://github.com/XrayR-project/XrayR/blob/master/README-en.md)|[Iranian](https://github.com/XrayR-project/XrayR/blob/master/README_Fa.md)|[Vietnamese](https://github.com/XrayR-project/XrayR/blob/master/README-vi.md)
 
 A Xray backend framework that can easily support many panels.
 
