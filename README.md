@@ -81,7 +81,7 @@ wget -N https://raw.githubusercontent.com/XrayR-project/XrayR-release/master/ins
 
 [手动安装教程](https://xrayr-project.github.io/XrayR-doc/xrayr-xia-zai-he-an-zhuang/install/manual)
 
-## 配置文件及详细使用教程
+## 配置文件及详细使用教程 
 
 [详细使用教程](https://xrayr-project.github.io/XrayR-doc/)
 
